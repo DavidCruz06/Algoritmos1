@@ -4,4 +4,4 @@ let num2 = parseInt(prompt("Descuento"))
 var result = 100
 let mult = num1*num2/result
 
-document.write("El valor de la prenda queda en:", mult, "<br>")
+document.write("Con el descuento la prenda queda en:", mult, "<br>")
